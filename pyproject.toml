@@ -1,0 +1,9 @@
+[project]
+name = "persona-evaluate-the-evaluator"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "Add your description here"
+readme = "README.md"
+dependencies = [
+   "requests"
+]
