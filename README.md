@@ -18,3 +18,10 @@ I generated 30 writing samples from Addy Osmani, Camille Fournier, Martin Kleppm
 | camille-fournier | 0.11857400969602168   | 0.4156682573901136  |
 | addy-osmani      | 0.31612503503759704   | 0.6587510983411453  |
 ```
+
+The key observations:
+
+- Herman Melville's writings were the least similar to Addy's in both methods
+- Addy's writing scored the highest in both methods, which is whatyou'd expect
+- The classifier output is easy to understand, but I don't think it's making very good discrimination. Like, I doubt selections from Moby Dick are on average 15% similar to Addy!
+- I don't have any intuitive sense of what the Burrow's Delta score means, but it seems to be more sensitive than the classifier method
