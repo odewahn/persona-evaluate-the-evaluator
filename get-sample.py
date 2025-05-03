@@ -27,8 +27,8 @@ token_count: 101
 """
 
 URL = "http://localhost:8000/api/blocks"
-N = 20
-FN = "data/herman-melville.json"
+N = 30
+FN = "data/martin-kleppmann.json"
 
 # Grab the data from the API
 response = requests.get(URL)

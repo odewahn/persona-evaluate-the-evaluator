@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "burrows_delta": {
+        "score": -0.029619619250297546,
+        "top_words_count": 58
+    },
+    "andreww_model": {
+        "predict": "not_osmani",
+        "predict_proba": {
+            "not_osmani": 0.8866925641423288,
+            "osmani": 0.11330743585767121
+        }
+    }
+}
